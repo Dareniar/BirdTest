@@ -1,0 +1,6 @@
+module Pods_BirdTest {
+  umbrella header "Pods-BirdTest-umbrella.h"
+
+  export *
+  module * { export * }
+}
